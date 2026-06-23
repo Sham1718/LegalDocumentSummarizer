@@ -1,0 +1,5 @@
+in_abs/
+rag/
+outputs/
+scripts/venv310
+scripts/__pycache__
